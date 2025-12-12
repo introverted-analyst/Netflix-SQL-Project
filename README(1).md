@@ -277,6 +277,6 @@ For more content on SQL, data analysis, and other data-related topics, make sure
 
 - **Twitter**: [Follow me for daily tips and updates](https://x.com/introverted_ana?s=21)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/introverted-analyst)
-- **Google**: [Email me](damedamedame174@gmailcom)
+- **Google**: [Email me](damedamedame174@gmail.com)
 
 Thank you for your support, and I look forward to connecting with you!
